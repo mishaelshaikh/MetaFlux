@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>MetaFlux | Smartify</title>
+    <title>Smartify
 
     <style>
         body {
@@ -62,8 +62,8 @@
 <body>
 
 <div class="box">
-    <h1>MetaFlux</h1>
-    <p>Smartify Your Free Time</p>
+    <h1>Smartify</h1>
+    <p>Your Free Time</p>
 
     <input type="number" id="time" placeholder="Free time (minutes)">
 
